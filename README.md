@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KostasStefanidis
 - 👀 I’m interested in Machine Learning
--
+- 🎓 I’m currently working on my thesis on Semantic Segmentation of Urban Scenes with Deep Learning
+- 💞️ I’m looking to collaborate on interesting tasks
 - 🌱 I’m currently learning Docker, Ansible
-- 💞️ I’m looking to collaborate on Machine Learning
 
 - 📫 How to reach me : 
   - email : stefanidiskostas45@gmail.com
