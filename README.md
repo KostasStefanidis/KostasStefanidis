@@ -1,8 +1,28 @@
 - 👋 Hi, I’m @KostasStefanidis
-- 👀 I’m interested in Machine Learning
-- 🎓 I’m currently working on my diploma thesis on Semantic Segmentation of Urban Scenes with Deep Learning
-- 💞️ I’m looking to collaborate on interesting tasks
-- 🌱 I’m currently learning Docker, Ansible
+- 👀 I’m interested in Machine Learning, Cloud Computing.
+- 🎓 I have graduated as an electrical and computer engineer. The code of my master dissertation on Semantic Segmentation of Urban Scenes with Deep Learning, implemented in **Tensorflow** can be found in the [Semantic-Segmentation](https://github.com/KostasStefanidis/Semantic-Segmentation) repository.
+- 💞️ I’m looking to collaborate on interesting projects
+- 🌱 I’m currently learning Kubernetes
+
+Programming Skills : 
+- Python
+    * Tensorflow
+    * NumPy
+    * Pandas
+    * Scikit Learn
+    * 
+- C++
+- Java
+- Matlab
+
+Other skills and tools:
+- Linux and bash scripting
+- Git
+- Docker
+- Ansible
+- Terraform
+- Jenkins
+
 
 - 📫 How to reach me : 
   - email : stefanidiskostas45@gmail.com
