@@ -6,11 +6,11 @@
 
 Programming Skills : 
 - Python
+    * PyTorch
     * Tensorflow
     * NumPy
     * Pandas
     * Scikit Learn
-    * 
 - C++
 - Java
 - Matlab
