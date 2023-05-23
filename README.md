@@ -24,7 +24,7 @@ Other skills and tools:
 - Jenkins
 
 
-- 📫 How to reach me : 
+📫 How to reach me : 
   - email : stefanidiskostas45@gmail.com
 <!---
 KostasStefanidis/KostasStefanidis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
