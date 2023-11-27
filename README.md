@@ -25,7 +25,7 @@ Other skills and tools:
 
 
 📫 How to reach me : 
-  - email : stefanidiskostas45@gmail.com
+  - email : konstantinos.stefanidis99@gmail.com
 <!---
 KostasStefanidis/KostasStefanidis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
